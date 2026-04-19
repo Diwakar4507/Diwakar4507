@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student of Kathmandu University (KU).<br>Currently working on project Bus TicGo.<br>
+💫I'm a student of Kathmandu University (KU).<br>Currently working on project Bus TicGo 🚎.<br>
 
 
 ## 🌐 Socials:
@@ -16,3 +16,4 @@ I'm a student of Kathmandu University (KU).<br>Currently working on project Bus 
 [![](https://komarev.com/ghpvc/?username=Diwakar4507&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
